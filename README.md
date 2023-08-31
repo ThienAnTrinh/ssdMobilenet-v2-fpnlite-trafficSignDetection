@@ -5,7 +5,7 @@ This is a webcam demo of the work demonstrated in this [repo](https://github.com
 ### Instruction:
 
 1. Create and activate a virtual environment
-2. pip install -r requirements.txt
+2. Run `pip install -r requirements.txt`
 3. Run the whole `SSD_MobileNet_v2_FPNLite_640x640_realtime` jupyter notebook
-4. Run `demo.py`
-5. Enjoy.
+4. Run `demo.py` script
+5. Enjoy!
