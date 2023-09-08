@@ -1,6 +1,6 @@
 ## Traffic sign detection with SSD MobileNet v2 FPNLite
 
-This is the repository of the webcam demo for the work demonstrated in this [repo](https://github.com/Romanvia93/traffic_sign_detection).
+This is the repository of the webcam demo for the work demonstrated in this [repo](https://github.com/Romanvia93/traffic_sign_detection) to which I am a main contributor.
 
 ### Instructions
 
